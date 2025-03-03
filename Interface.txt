@@ -1,0 +1,5 @@
+In interface we only declare methods 
+Interface is three types they are Normal,FunctionalInterface/SAM(Single abstract method),Marker.
+Normal interface means we only declaree methods.In this interface two or more methods than it is called Normal Interface.
+FunctionalInterface/SAM in this interface we have only one method.
+Marker Interface in this inetrface there no methods in that interface.
